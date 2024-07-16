@@ -1,6 +1,6 @@
 This assignment to create a leaderboard for our project example (/assets/Daily View.jpg), which needs to be completed within three days from now. Your task is to design and implement a leaderboard that displays the top 10 scores of players.
 
-Key Requirements:
+# Key Requirements:
 
 1. Responsive Design: The leaderboard should adjust seamlessly across different display sizes, ensuring that only top 10 scores should be shown.
 
@@ -10,22 +10,22 @@ Key Requirements:
 
 4. Implement an "Add Score" popup feature with specific fields:
 
-    > Add Score Popup Details:
-    - Username: Input field for the player's username (string).
-    - Score: Input field formatted as MM:SS::MSS
+    ## Add Score Popup Details:
+    * Username: Input field for the player's username (string).
+    * Score: Input field formatted as MM:SS::MSS
     (minutes:seconds:milliseconds) for the player's score.
     
-    > Enhancements:
-    - Smooth Animation: When a new score is added, implement a smooth animation effect to visually display the new entry.
+    ## Enhancements:
+    * Smooth Animation: When a new score is added, implement a smooth animation effect to visually display the new entry.
     
-    - Dynamic Entry: If the new score does not initially rank in the top 10, the leaderboard should automatically scroll to the correct position for the new score and smoothly insert it into the list.
+    * Dynamic Entry: If the new score does not initially rank in the top 10, the leaderboard should automatically scroll to the correct position for the new score and smoothly insert it into the list.
 
 
-Additional Details:
+# Additional Details:
 
 - Data Generation: Dummy data for scores and usernames can be used for development and testing purposes.
 
-Upon completion of the project, please provide the following:
+**Upon completion of the project, please provide the following:**
 
 1. GitHub Repository Link: Share the link to the repository where the project code is hosted.
 2. Hosted Link: Host the project on a free platform such as Firebase, Heroku, etc., and provide the URL for access.
