@@ -1,4 +1,4 @@
-This assignment to create a leaderboard for our project example (/assets/Daily View.jpg), which needs to be completed within three days from now. Your task is to design and implement a leaderboard that displays the top 10 scores of players.
+This assignment is to create a leaderboard project example (/assets/Daily View.jpg), which needs to be completed within three days from now. Your task is to design and implement a leaderboard that displays the top 10 scores of players.
 
 1. **Assignment Should be done in ReactJS. Using Typescript will be a bonus addon**
 2. **For icons [react-icons](https://react-icons.github.io/react-icons/) library should be used**
