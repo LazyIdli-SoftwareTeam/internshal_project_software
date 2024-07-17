@@ -38,3 +38,6 @@ This assignment is to create a leaderboard project example (/assets/Daily View.j
 
 All the required assets are stored in the assets folder (/assets)
 Feel free to ask any questions or seek clarification on the requirements. I look forward to seeing your implementation.
+
+
+**You can see a similar live application demo in (/assets/demo.mp4)**
